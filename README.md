@@ -2,7 +2,7 @@
 
 This project analyzes Malaysia’s labour market trends using official open data, focusing on employment conditions, workforce structure, and skills mismatch.
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](2026_MAS_DASHBOARD_OVERVIEW.png)
 
 ---
 
